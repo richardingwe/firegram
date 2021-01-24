@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Title from "./comps/Title";
 
 function App() {
